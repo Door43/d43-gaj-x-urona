@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaj-x-urona:home|Door43 (gaj-x-urona)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaj-x-urona|d43-gaj-x-urona repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaj-x-urona/archive/master.zip|d43-gaj-x-urona.zip]]
+
+**Recent Changes**
+{{changes>ns = gaj-x-urona}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaj-x-urona|Ethnologue data]]
+
