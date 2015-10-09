@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/gaj-x-urona|Ethnologue data]]
 
-
 **Resources**
 
   * [[gaj-x-urona:obs|Open Bible Stories (gaj-x-urona)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:gaj-x-urona:obs:status}}
